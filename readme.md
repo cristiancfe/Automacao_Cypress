@@ -1,4 +1,4 @@
-# Projeto de Automação WEB com Cypress
+# Projeto de Automação WEB com Cypress - <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-rocket-science-justicon-flat-justicon.png"/>
 ## Criar a pasta do projeto e abrir o vscode
 ## Digitar o terminal npm init --yes para criar o projeto node 
 ## ele cria o package Json  
